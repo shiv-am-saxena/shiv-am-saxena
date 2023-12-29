@@ -1,4 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=shiv-am-saxenaa&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
 ### Hi there 👋
+
 
 <!--
 **shiv-am-saxena/shiv-am-saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
