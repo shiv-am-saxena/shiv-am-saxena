@@ -85,7 +85,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/shiv-am-saxena/shiv-am-saxena/output/snake.svg" alt="Snake animation" />
-
 ###
